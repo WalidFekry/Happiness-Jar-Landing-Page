@@ -1,6 +1,18 @@
+
 # 🌟 برطمان السعادة - صفحة الهبوط
 
 صفحة هبوط احترافية لتطبيق "برطمان السعادة" - تطبيق الرسائل التحفيزية والإيجابية اليومية.
+
+<div align="center">
+  
+<img src="src/assets/logo.png" width="150" alt="Happiness Jar Logo"/>
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
+![React](https://img.shields.io/badge/React-18-61dafb)
+![License](https://img.shields.io/badge/license-MIT-orange)
+
+</div>
 
 ## 📱 عن التطبيق
 
@@ -30,6 +42,16 @@
 --custom-orange: #F58F73
 --custom-blue: #5C9FD1
 ```
+
+---
+
+## 🌐 مثال ومعاينة مباشرة
+
+يمكنك معاينة نسخة من صفحة الهبوط الخاصة بالتطبيق من خلال الرابط التالي:  
+
+ [معاينة صفحة برطمان السعادة](https://walid-fekry.com/blog/happiness-jar/)  👉
+
+---
 
 ## 📁 هيكل المشروع
 
